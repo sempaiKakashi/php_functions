@@ -7,7 +7,7 @@ $max = max($arr);
 return ['min' => $min, 'max' => $max];
 }
 else {
-	echo "poshel nax";
+	echo "pshel von";
 }
 }
 
